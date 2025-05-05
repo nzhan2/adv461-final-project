@@ -5,7 +5,7 @@ bibtex
   title = {Adscraper: A Web Crawler for Measuring Online Ad Content},
   url = {https://github.com/UWCSESecurityLab/adscraper},
   version = {1.0.0},
-  date = {YYYY-MM-DD}
+  date = {2025-05-04}
 }
 
 Adscraper was developed by Eric Zeng
